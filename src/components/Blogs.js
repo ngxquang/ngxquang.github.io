@@ -11,6 +11,12 @@ import {
 export const Blogs = () => {
   const blogPosts = [
     {
+      title: "Amazon SQS và Amazon SNS",
+      description:
+        "So sánh giữa 2 dịch vụ message phổ biến hiện nay của Amazon là Amazon SQS và Amazon SNS.",
+      link: "https://ngxquang.github.io/aws-ws1-sqs-sns/",
+    },
+    {
       title: "Architecture and Optimization with MySQL",
       description:
         "This blog primarily provides guidance on how to optimize MySQL queries and perform data backup/restore.",
